@@ -14,7 +14,7 @@ function Inputs({ calculateTip }) {
   }
 
   const handleClick = () => {
-    if (!total || !tip) {
+    if (total < 0 || tip < 0) {
       alert("Input has to be a number and it can't be negative!")
     } else {
       calculateTip(total, tip);
