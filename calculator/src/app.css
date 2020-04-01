@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(107, 107, 107);
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+div {
+  background-color: #ebebeb;
+  padding: 30px;
+  width: 95%;
+  border-radius: 4%;
+}
