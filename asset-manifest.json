@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2020-04-01-Interactive-Calculator/static/css/main.c1bedb41.chunk.css",
+    "main.js": "/2020-04-01-Interactive-Calculator/static/js/main.aeef7ff9.chunk.js",
+    "main.js.map": "/2020-04-01-Interactive-Calculator/static/js/main.aeef7ff9.chunk.js.map",
+    "runtime-main.js": "/2020-04-01-Interactive-Calculator/static/js/runtime-main.09153aec.js",
+    "runtime-main.js.map": "/2020-04-01-Interactive-Calculator/static/js/runtime-main.09153aec.js.map",
+    "static/js/2.a3bbe033.chunk.js": "/2020-04-01-Interactive-Calculator/static/js/2.a3bbe033.chunk.js",
+    "static/js/2.a3bbe033.chunk.js.map": "/2020-04-01-Interactive-Calculator/static/js/2.a3bbe033.chunk.js.map",
+    "index.html": "/2020-04-01-Interactive-Calculator/index.html",
+    "precache-manifest.81b4d57df25e5ca235c48d561ac38361.js": "/2020-04-01-Interactive-Calculator/precache-manifest.81b4d57df25e5ca235c48d561ac38361.js",
+    "service-worker.js": "/2020-04-01-Interactive-Calculator/service-worker.js",
+    "static/css/main.c1bedb41.chunk.css.map": "/2020-04-01-Interactive-Calculator/static/css/main.c1bedb41.chunk.css.map",
+    "static/js/2.a3bbe033.chunk.js.LICENSE.txt": "/2020-04-01-Interactive-Calculator/static/js/2.a3bbe033.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09153aec.js",
+    "static/js/2.a3bbe033.chunk.js",
+    "static/css/main.c1bedb41.chunk.css",
+    "static/js/main.aeef7ff9.chunk.js"
+  ]
+}
